@@ -13,7 +13,7 @@
 # pip install Flask
 
 # Install the python bindings for our downloader
-# pip install youtube-dl
+pip install youtube-dl
 
 # Install the command line wrappings for our downloader
 # yum install youtube-dl -y
